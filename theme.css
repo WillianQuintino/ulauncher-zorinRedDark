@@ -4,22 +4,22 @@
 @define-color bg_color #1e2529;
 @define-color window_bg @bg_color;
 @define-color window_border_color #1e2529;
-@define-color prefs_backgroud #bde6fb;
+@define-color prefs_backgroud #ffe6fb;
 
 /**
  * Input
  */
-@define-color selected_bg_color #bde6fb;
+@define-color selected_bg_color #ffe6fb;
 @define-color selected_fg_color #1e2529;
-@define-color input_color #bde6fb;
-@define-color caret_color #bde6fb;
+@define-color input_color #ffe6fb;
+@define-color caret_color #ffe6fb;
 
 /**
  * Result items
  */
-@define-color item_name #bde6fb;
-@define-color item_text #748e9c;
-@define-color item_box_selected #bde6fb;
+@define-color item_name #ffe6fb;
+@define-color item_text #ff8e9c;
+@define-color item_box_selected #ffe6fb;
 @define-color item_text_selected #738c99;
 @define-color item_name_selected #1e2529;
 @define-color item_shortcut_color #bde6fb;
