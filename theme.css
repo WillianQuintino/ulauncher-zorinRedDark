@@ -1,29 +1,29 @@
 /**
  * App Window
  */
-@define-color bg_color #1e2529;
+@define-color bg_color #291E25;
 @define-color window_bg @bg_color;
-@define-color window_border_color #1e2529;
-@define-color prefs_backgroud #ffe6fb;
+@define-color window_border_color #291E25;
+@define-color prefs_backgroud #FBBDE6;
 
 /**
  * Input
  */
-@define-color selected_bg_color #ffe6fb;
-@define-color selected_fg_color #1e2529;
-@define-color input_color #ffe6fb;
-@define-color caret_color #ffe6fb;
+@define-color selected_bg_color #FBBDE6;
+@define-color selected_fg_color #291E25;
+@define-color input_color #FBBDE6;
+@define-color caret_color #FBBDE6;
 
 /**
  * Result items
  */
-@define-color item_name #ffe6fb;
-@define-color item_text #ff8e9c;
-@define-color item_box_selected #ffe6fb;
-@define-color item_text_selected #738c99;
-@define-color item_name_selected #1e2529;
-@define-color item_shortcut_color #bde6fb;
-@define-color item_shortcut_color_sel #1e2529;
+@define-color item_name #FBBDE6;
+@define-color item_text #9C748E;
+@define-color item_box_selected #FBBDE6;
+@define-color item_text_selected #99738C;
+@define-color item_name_selected #291E25;
+@define-color item_shortcut_color #FBBDE6;
+@define-color item_shortcut_color_sel #291E25;
 
 .app {
   background-color: @window_bg;
